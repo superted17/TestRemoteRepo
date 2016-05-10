@@ -1,2 +1,3 @@
 .vs/
 src/GitTestProject/node_modules/
+*.map.js
