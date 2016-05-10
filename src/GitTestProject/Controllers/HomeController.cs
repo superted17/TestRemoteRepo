@@ -17,6 +17,8 @@ namespace GitTestProject.Controllers
         {
             ViewData["Message"] = "Your application description page.";
 
+            throw new NotImplementedException("Not done yet");
+
             return View();
         }
 
